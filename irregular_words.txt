@@ -1,0 +1,17 @@
+went,go
+geese,goose
+mice,mouse
+better,good
+children,child
+men,man
+women,woman
+slowly,slow
+afternoons,afternoon
+together,together
+leave,leave
+saw,see
+had,have
+spent,spend
+said,say
+looked,look
+
